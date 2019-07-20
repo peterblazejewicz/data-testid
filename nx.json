@@ -1,0 +1,21 @@
+{
+  "npmScope": "data-testid",
+  "implicitDependencies": {
+    "angular.json": "*",
+    "package.json": "*",
+    "tsconfig.json": "*",
+    "tslint.json": "*",
+    "nx.json": "*"
+  },
+  "projects": {
+    "data-test-id": {
+      "tags": []
+    },
+    "sample-app": {
+      "tags": []
+    },
+    "sample-app-e2e": {
+      "tags": []
+    }
+  }
+}
